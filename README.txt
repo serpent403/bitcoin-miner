@@ -1,5 +1,3 @@
-Team members: Aman Raj Singh (UFID: 51989874), Nagapandu Potti (UFID: 65569858)
-
 Running Server:
 $ sbt compile
 $ sbt “run k” 
